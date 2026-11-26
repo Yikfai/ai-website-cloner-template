@@ -47,3 +47,6 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# Single-user resume documents. Seeded at runtime; do not commit personal content.
+data/
